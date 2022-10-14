@@ -14,7 +14,7 @@ This project will give you a summary of who I am, and projects that I created wi
 ## Setup/Installation Requirements
 
 *  Open your Gitbash
-* $ git clone *....*, to clone the project to your machine
+* $ git clone https://github.com/ChloeL6/Week-1-Independent-Project.git, to clone the project to your machine
 * $ code ., open the project in VS Code
 
 ## Known Bugs
