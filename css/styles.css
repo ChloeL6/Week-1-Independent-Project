@@ -6,6 +6,7 @@ h3{
 body{
   margin:auto;
   background-color: beige;
+  background-image: linear-gradient(beige, orange);
 }
 .center {
   display: block;
@@ -54,4 +55,7 @@ footer{
 }
 h4{
   margin-left: 30px;
+}
+footer{
+  margin-top: 1rem;
 }
