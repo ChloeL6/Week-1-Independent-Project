@@ -1,5 +1,7 @@
 # Independent Project Week 1
 
+### By Chloe Le
+
 #### A summary about myself
 
 ## Technologies Used
@@ -13,9 +15,11 @@ This project will give you a summary of who I am, and projects that I created wi
 
 ## Setup/Installation Requirements
 
-*  Open your Gitbash
-* $ git clone *....*, to clone the project to your machine
-* $ code ., open the project in VS Code
+* Open your Gitbash
+* Navigate to where you want the copy of the project to be saved after cloning, by using cd 'destination'
+* $ git clone https://github.com/ChloeL6/Week-1-Independent-Project.git, to clone the project
+* After cloning is done, navigate to the folder where the project is saved
+* Open the index.html file to see the project in your browser
 
 ## Known Bugs
 
