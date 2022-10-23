@@ -1,9 +1,9 @@
-h3{
+h3 {
   border-style: solid;
   text-align: center;
   padding: 7px;
 }
-body{
+body {
   margin:auto;
   background-color: beige;
   background-image: linear-gradient(beige, orange);
@@ -14,48 +14,48 @@ body{
   margin-right: auto;
   width: 10%;
 }
-p{
+p {
   text-align: center;
   color: darkgreen;
 }
-.column{
+.column {
   float: left;
   width: 25%;
   padding: auto;
   margin-left: 25px;
 }
-.column1{
+.column1 {
   column-count: 4;
   column-gap: 50px ;
 }
 
-footer{
+footer {
   text-align: center;
 }
-.description{
+.description {
   text-align: left;
 }
-.me1{
+.me1 {
   border-style: solid;
   margin-left: 5rem;
 }
-.me2{
+.me2 {
   border-style: solid;
   margin-left: 3rem;
   margin-right: 3rem;
 }
-.me3{
+.me3 {
   border-style: solid;
   margin-right: 5rem;
 }
-.me{
+.me {
   column-count: 3;
   column-width: 100%;
   display: flex;
 }
-h4{
+h4 {
   margin-left: 30px;
 }
-footer{
+footer {
   margin-top: 1rem;
 }
